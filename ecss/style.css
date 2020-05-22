@@ -1,0 +1,43 @@
+body{
+	background-color: #007073;
+	font-size:18px;
+	font-family: times new roman;
+	color: white;
+	
+}
+
+div.kontener {
+	
+	width: auto;
+	height: auto;
+	margin: 40px auto;
+	text-align: center;
+	
+}
+
+
+ul{
+	width:100%;
+	overflow:auto;
+	padding:50px;
+	list-style-type:none;
+	margin: 300px auto;
+	
+	
+}
+
+
+
+ul li  p {
+	float:left;
+	text-align: center;
+	padding:140px;
+}
+
+
+ul li  p a {	
+
+ text-decoration: none;
+ color: white;
+	
+}

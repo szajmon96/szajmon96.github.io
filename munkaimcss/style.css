@@ -1,0 +1,43 @@
+body {
+	
+	background: gray;
+	font-size: 24px;
+	font-family: Arial;
+	color: #006622;
+	
+}
+
+
+
+
+
+div.kontener {
+	
+	width: auto;
+	height: auto;
+	margin: 20px auto;
+	text-align: center;
+	
+}
+
+
+
+div.bemutato {
+	
+	margin: 10px auto;
+	padding:2px;
+	
+}
+	
+
+div.bemutato p {
+	
+		padding:25px;
+}
+
+a {
+	
+	text-decoration: none;
+	color: #006622;
+}
+

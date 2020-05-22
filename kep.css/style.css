@@ -1,0 +1,36 @@
+body{
+	background-color:#ffffdd;
+	font-size:18px;
+	font-family: times new roman,arial;
+	
+}
+ul{
+	width:100%;
+	overflow:auto;
+	padding:25px;
+	list-style-type:none;
+	margin: 20px auto;
+	text-align: center;
+	
+}
+
+
+ul li {
+	float:left;
+}
+
+ul li  img {
+	margin: 2px;
+	padding:0px 8px 8px 0px;
+	width:250px;
+	height:150px;
+	border: 2px solid #000;
+}
+ul li a im aside {
+	font-size:8px;
+}
+
+ul li a:hover img{
+	border-color:red;
+}
+
